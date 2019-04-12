@@ -62,7 +62,7 @@ save_as_action = QAction("Save &As...")
 save_as_action.triggered.connect(save_as)
 file_menu.addAction(save_as_action)
 
-exit_action = QAction("E&xit")
+exit_action = QAction("&Close")
 exit_action.triggered.connect(window.close)
 file_menu.addAction(exit_action)
 
