@@ -70,7 +70,7 @@ def show_about_dialog():
         "<center>"
         "<h1>Text Editor</h1>"
         "&#8291;" # Force a line break
-        "<img src=icon.png>"
+        "<img src=icon.svg>"
         "</center>"
         "<p>Version 31.4.159.265358<br/>"
         "Copyright &copy; Company Inc.</p>"
