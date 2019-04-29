@@ -78,7 +78,9 @@ def show_about_dialog():
        "<p>Version 31.4.159.265358<br/>" \
        "Copyright &copy; Company Inc.</p>" \
        % appctxt.get_resource("icon.svg")
-    QMessageBox.about(window, "About Text Editor", text)
+    about_dialog = QMessageBox(window)
+    about_dialog.setText(text)
+    about_dialog.exec_()
 about_action.triggered.connect(show_about_dialog)
 
 window.show()
