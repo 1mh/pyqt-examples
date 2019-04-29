@@ -65,16 +65,14 @@ help_menu = window.menuBar().addMenu("&Help")
 about_action = QAction("&About")
 help_menu.addAction(about_action)
 def show_about_dialog():
-    QMessageBox.about(
-        window, "About Text Editor",
-        "<center>"
-        "<h1>Text Editor</h1>"
-        "&#8291;" # Force a line break
-        "<img src=icon.svg>"
-        "</center>"
-        "<p>Version 31.4.159.265358<br/>"
-        "Copyright &copy; Company Inc.</p>"
-    )
+    text = "<center>" \
+           "<h1>Text Editor</h1>" \
+           "&#8291;" \
+           "<img src=icon.svg>" \
+           "</center>" \
+           "<p>Version 31.4.159.265358<br/>" \
+           "Copyright &copy; Company Inc.</p>"
+    QMessageBox.about(window, "About Text Editor", text)
 about_action.triggered.connect(show_about_dialog)
 
 window.show()
