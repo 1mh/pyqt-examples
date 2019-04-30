@@ -14,7 +14,7 @@ class PlainTextEdit(QPlainTextEdit):
         self._holes.append(e.pos())
         super().mousePressEvent(e)
         self.viewport().update()
-        QSound.play("bullet.wav")
+        QSound.play("shot.wav")
     def paintEvent(self, e):
         super().paintEvent(e)
         painter = QPainter(self.viewport())
