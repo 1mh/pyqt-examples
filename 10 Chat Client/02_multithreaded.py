@@ -4,7 +4,7 @@ from requests import Session
 from threading import Thread
 from time import sleep
 
-name = "Michael" # Enter your name here!
+name = "" # Enter your name here!
 chat_url = "https://build-system.fman.io/chat"
 server = Session()
 
