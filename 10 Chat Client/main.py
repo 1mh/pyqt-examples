@@ -2,8 +2,8 @@ from PyQt5.QtCore import *
 from PyQt5.QtWidgets import *
 from requests import Session
 
-name = '' # Enter your name here!
-chat_url = 'https://build-system.fman.io/chat'
+name = "Michael" # Enter your name here!
+chat_url = "https://build-system.fman.io/chat"
 server = Session()
 
 # GUI:
@@ -25,7 +25,7 @@ def display_new_messages():
         text_area.append(new_message)
 
 def send_message():
-    server.post(chat_url, {'name': name, 'message': message.text()})
+    server.post(chat_url, {"name": name, "message": message.text()})
     message.clear()
 
 # Signals:
