@@ -8,7 +8,7 @@ server = Session()
 
 # GUI:
 app = QApplication([])
-text_area = QTextEdit()
+text_area = QPlainTextEdit()
 text_area.setFocusPolicy(Qt.NoFocus)
 message = QLineEdit()
 layout = QVBoxLayout()
@@ -22,7 +22,7 @@ window.show()
 def display_new_messages():
     new_message = server.get(chat_url).text
     if new_message:
-        text_area.append(new_message)
+        text_area.appendPlainText(new_message)
 
 def send_message():
     server.post(chat_url, {"name": name, "message": message.text()})
