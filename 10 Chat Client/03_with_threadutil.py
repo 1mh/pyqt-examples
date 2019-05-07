@@ -2,7 +2,7 @@ from PyQt5.QtCore import *
 from PyQt5.QtWidgets import *
 from requests import Session
 from threading import Thread
-from threadutil_blocking import run_in_main_thread
+from threadutil import run_in_main_thread
 from time import sleep
 
 name = "" # Enter your name here!
