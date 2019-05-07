@@ -9,7 +9,7 @@ class CurrentThread(QObject):
         self._on_execute.connect(self._execute_in_thread)
 
     def execute(self, f, args, kwargs):
-        self._on_execute.emit(f)
+        self._on_execute.emit(f, args, kwargs)
 
     def _execute_in_thread(self, f, args, kwargs):
         f(*args, **kwargs)
