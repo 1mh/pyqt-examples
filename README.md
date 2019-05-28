@@ -1,6 +1,6 @@
 # PyQt Examples
 
-A collection of small desktop applications written with PyQt5.
+A collection of small desktop applications to help you learn PyQt5.
 
 ## Running the examples
 
