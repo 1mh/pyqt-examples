@@ -1,6 +1,6 @@
 # PyQt Widgets
 
-This sample application shows the most common PyQt widgets:
+A *widget* is a GUI element: A button, a text field, ... This sample application shows the most common PyQt widgets.
 
 ![PyQt widgets screenshot](pyqt-widgets.png)
 
