@@ -8,12 +8,12 @@ The source code is in [`main.py`](main.py). For instructions how to run it, plea
 
 Some of the widgets you can see in this screenshot are:
 
- * [QLabel](doc.qt.io/qt-5/qlabel.html)
- * [QComboBox](doc.qt.io/qt-5/qcombobox.html)
- * [QCheckBox](doc.qt.io/qt-5/qcheckbox.html)
- * [QRadioButton](doc.qt.io/qt-5/qradiobutton.html)
- * [QPushButton](doc.qt.io/qt-5/qpushbutton.html)
- * [QTableWidget](doc.qt.io/qt-5/qtablewidget.html)
- * [QLineEdit](doc.qt.io/qt-5/qlineedit.html)
- * [QSlider](doc.qt.io/qt-5/qslider.html)
- * [QProgressBar](doc.qt.io/qt-5/qprogressbar.html)
+ * [QLabel](https://doc.qt.io/qt-5/qlabel.html)
+ * [QComboBox](https://doc.qt.io/qt-5/qcombobox.html)
+ * [QCheckBox](https://doc.qt.io/qt-5/qcheckbox.html)
+ * [QRadioButton](https://doc.qt.io/qt-5/qradiobutton.html)
+ * [QPushButton](https://doc.qt.io/qt-5/qpushbutton.html)
+ * [QTableWidget](https://doc.qt.io/qt-5/qtablewidget.html)
+ * [QLineEdit](https://doc.qt.io/qt-5/qlineedit.html)
+ * [QSlider](https://doc.qt.io/qt-5/qslider.html)
+ * [QProgressBar](https://doc.qt.io/qt-5/qprogressbar.html)
