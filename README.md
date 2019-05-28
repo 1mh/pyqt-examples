@@ -2,9 +2,9 @@
 
 A collection of small desktop applications to help you learn PyQt5.
 
-| <a href="src/02 PyQt Widgets"><img src="src/02 PyQt Widgets/pyqt-widgets.png" alt="PyQt widgets screenshot" width=200px></a> |
-| :--: |
-| <a href="src/02 PyQt Widgets">PyQt Widgets</a> |
+| <a href="src/02 PyQt Widgets"><img src="src/02 PyQt Widgets/pyqt-widgets.png" alt="PyQt widgets screenshot" width=200px></a> | <a href="src/03 QVBoxLayout PyQt5"><img src="src/03 QVBoxLayout PyQt5/qvboxlayout-pyqt5.png" alt="QVBoxLayout PyQt5" width=100px></a> |
+| :--: | :--: |
+| <a href="src/02 PyQt Widgets">Standard PyQt Widgets</a> | <a href="src/03 QVBoxLayout PyQt5">Layouts</a> |
 
 ## Running the examples
 
