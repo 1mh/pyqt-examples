@@ -2,6 +2,8 @@
 
 A collection of small desktop applications to help you learn PyQt5.
 
+![PyQt widgets screenshot](src/02 PyQt Widgets/pyqt-widgets.png)
+
 ## Running the examples
 
 The only thing you need to run the examples presented here is Python 3. Create a virtual environment via the command:
