@@ -8,7 +8,7 @@ A collection of small desktop applications to help you learn PyQt5.
 
 ## Running the examples
 
-The only thing you need to run the examples is Python 3. Create a virtual environment via the command:
+You can run the examples on Windows, Mac and Linux. The only thing you need is Python 3. Create a virtual environment via the command:
 
     python3 -m venv venv
 
