@@ -2,7 +2,7 @@
 
 A collection of small desktop applications to help you learn PyQt5.
 
-![PyQt widgets screenshot]("src/02%20PyQt%20Widgets/pyqt-widgets.png")
+![PyQt widgets screenshot](src/02%20PyQt%20Widgets/pyqt-widgets.png)
 
 ## Running the examples
 
