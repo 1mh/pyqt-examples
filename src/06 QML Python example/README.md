@@ -9,3 +9,5 @@ Qt Quick uses a markup language called QML. This example shows how you can combi
 The sample application displays a pin wheel in front of some hills. When you click with the mouse, the wheel rotates.
 
 The QML code lies in [`main.qml`](main.qml). It is invoked from Python via [`main.py`](main.py). For instructions how to run it, please see [here](https://github.com/1mh/pyqt-examples#running-the-examples).
+
+Some code in this directory has special license requirements. For more information, please see [`LICENSE.md`](LICENSE.md).
