@@ -21,7 +21,7 @@ source venv/bin/activate
 
 Then, execute the following to install the necessary dependencies:
 
-    pip install -Ur requirements.txt
+    pip install -Ur src/requirements.txt
 
 Once you have done this, use `cd` to navigate to the example you're interested in in the [`src/`](src) folder. You'll find a `.py` file there, typically `main.py`. You can run it with the command:
 
