@@ -12,4 +12,4 @@ label.show()
 app.exec_()
 ```
 
-The source code is in [`main.py`](main.py). For instructions how to run it, please see [here](https://github.com/1mh/pyqt-examples#running-the-examples).
+The source code is also in [`main.py`](main.py). For instructions how to run it, please see [here](https://github.com/1mh/pyqt-examples#running-the-examples).
