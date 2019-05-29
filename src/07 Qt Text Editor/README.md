@@ -2,11 +2,16 @@
 
 This example implements a simple text editor with (Py)Qt.
 
-<p align="center"><img src="qt-text-editor.png" alt="Qt Text Editor"></p>
+![Qt Text Editor](qt-text-editor-1.png) ![Qt Text Editor](qt-text-editor-2.png)
+
+![Qt Text Editor](qt-text-editor-3.png) ![Qt Text Editor](qt-text-editor-4.png)
+
+![Qt Text Editor](qt-text-editor-5.png)
 
 It has a surprising number of features:
 
  * A *File* menu for opening and saving files.
+ * Keyboard shortcuts.
  * An *About* dialog (shown above).
  * A warning *Do you want to quit before saving?* if there are unmodified changes.
 
