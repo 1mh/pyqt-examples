@@ -6,9 +6,9 @@ A collection of small desktop applications to help you learn PyQt5.
 | :--: | :--: | :--: | :--: | :--: |
 | <a href="src/01 PyQt QLabel">Hello World</a> | <a href="src/02 PyQt Widgets">Common PyQt Widgets</a> | <a href="src/03 QVBoxLayout PyQt5">Layouts</a> | <a href="src/04 PyQt Signals and Slots">Signals and Slots</a> | <a href="src/04 Qt Designer Python">Qt Designer & Python</a> |
 
-| <a href="src/06 QML Python example"><img src="src/06 QML Python example/qml-python-example.png" alt="QML Python example" width=200px></a> |
+| <a href="src/06 QML Python example"><img src="src/06 QML Python example/qml-python-example.png" alt="QML Python example" width=200px></a> | <a href="src/07 Qt Text Editor"><img src="src/07 Qt Text Editor/qt-text-editor.png" alt="Qt Text Editor" width=200px></a> |
 | :--: |
-| <a href="src/06 QML Python example">QML Python example</a> |
+| <a href="src/06 QML Python example">QML Python example</a> | <a href="src/07 Qt Text Editor">Qt Text Editor</a> |
 
 ## Running the examples
 
