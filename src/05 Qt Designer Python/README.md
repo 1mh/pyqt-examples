@@ -4,4 +4,4 @@
 
 <p align="center"><img src="qt-designer-python.png" alt="Qt Designer Python"></p>
 
-For instructions how to run this sample, please see [here](https://github.com/1mh/pyqt-examples#running-the-examples).
+The [`main.py`](main.py) script loads and invokes the `.ui` file from Python. For instructions on how to run it, please see [here](https://github.com/1mh/pyqt-examples#running-the-examples).
