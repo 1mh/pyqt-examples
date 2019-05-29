@@ -4,7 +4,7 @@ Once you have a PyQt5 application, you want to compile your Python source code i
 
 This example uses [fbs](https://build-system.fman.io) to create a standalone executable and an installer for the text editor in [example 07](../07%20Qt%20Text%20Editor).
 
-![PyQt5 exe installer](pyqt5-exe.png) ![Installer for a PyQt5 Mac application](pyqt5-installer-mac.png)
+<img src="pyqt5-exe.png" alt="PyQt5 exe installer" height="250px"> <img src="pyqt5-installer-mac.png" alt="Installer for a PyQt5 Mac application" height="250px">
 
 To run this example, you need fbs installed as per the instructions [here](https://github.com/1mh/pyqt-examples#running-the-examples). Then, you can do:
 
