@@ -8,7 +8,7 @@ Simple desktop applications written with PyQt5.
 
 | <a href="src/06 QML Python example"><img src="src/06 QML Python example/qml-python-example.png" alt="QML Python example" width=200px></a> | <a href="src/07 Qt Text Editor"><img src="src/07 Qt Text Editor/screenshots/qt-text-editor.png" alt="Qt Text Editor" width=180px></a> | <a href="src/08 PyQt5 exe"><img src="src/08 PyQt5 exe/pyqt5-exe.png" alt="PyQt5 exe" width=213px></a> | <a href="src/09 Qt dark theme"><img src="src/09 Qt dark theme/qt-dark-theme.png" alt="Qt dark theme" width=180px></a> |
 | :--: | :--: | :--: | :--: |
-| <a href="src/06 QML Python example">QML Python example</a> | <a href="src/07 Qt Text Editor">Qt Text Editor</a> | <a href="src/08 PyQt5 exe">Packaging & deployment</a> |
+| <a href="src/06 QML Python example">QML Python example</a> | <a href="src/07 Qt Text Editor">Qt Text Editor</a> | <a href="src/08 PyQt5 exe">Packaging & deployment</a> | <a href="src/09 Qt dark theme">Qt Dark Theme</a> |
 
 | <a href="src/10 QPainter Python example"><img src="src/10 QPainter Python example/qpainter-python-example.png" alt="QPainter Python example" width=200px></a> |
 | :--: |
