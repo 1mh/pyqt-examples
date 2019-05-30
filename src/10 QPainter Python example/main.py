@@ -23,6 +23,7 @@ class PlainTextEdit(QPlainTextEdit):
 
 app = QApplication([])
 text = PlainTextEdit()
+text.setPlainText("Click with the mouse below to shoot ;-)")
 
 # The rest of the code is as for the normal version of the text editor.
 
