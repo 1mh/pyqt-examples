@@ -47,4 +47,4 @@ Please note that the virtual environment must still be active for this to work.
 
 ## License
 
-MIT, except where otherwise indicated in the example subdirectory.
+MIT, except where otherwise indicated.
