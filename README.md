@@ -44,3 +44,7 @@ Once you have done this, use `cd` to navigate to the example you're interested i
     python main.py
 
 Please note that the virtual environment must still be active for this to work.
+
+## License
+
+MIT, except where otherwise indicated in the example subdirectory.
