@@ -20,7 +20,7 @@ Create slick Python GUIs for Windows, Mac and Linux. Screenshots on Ubuntu:
 
 ## Running the examples
 
-To run the examples, you need Python 3. Create a virtual environment via the command:
+Running the examples is really easy. The only thing you need is Python 3. Create a virtual environment via the command:
 
     python3 -m venv venv
 
