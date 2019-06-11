@@ -20,7 +20,7 @@ Simple desktop applications written with PyQt5. You can run them on Windows, Mac
 
 ## Running the examples
 
-Create a Python virtual environment via the command:
+To run the examples, you need Python 3. Create a virtual environment via the command:
 
     python3 -m venv venv
 
