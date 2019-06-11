@@ -1,6 +1,6 @@
 # PyQt Examples
 
-Use Python to create a desktop application for Windows, Mac and Linux. Screenshots on Ubuntu:
+Use Python to create desktop applications for Windows, Mac and Linux. Screenshots on Ubuntu:
 
 | <a href="src/01 PyQt QLabel"><img src="src/01 PyQt QLabel/pyqt-qlabel.png" alt="PyQt QLabel" width=100px></a> | <a href="src/02 PyQt Widgets"><img src="src/02 PyQt Widgets/pyqt-widgets.png" alt="PyQt widgets screenshot" width=200px></a> | <a href="src/03 QVBoxLayout PyQt5"><img src="src/03 QVBoxLayout PyQt5/qvboxlayout-pyqt5.png" alt="QVBoxLayout PyQt5" width=100px></a> | <a href="src/04 PyQt Signals and Slots"><img src="src/04 PyQt Signals and Slots/pyqt-signals-and-slots.jpg" alt="PyQt Signals and Slots" width=180px></a> | <a href="src/05 Qt Designer Python"><img src="src/05 Qt Designer Python/qt-designer-python.png" alt="Qt Designer Python" width=180px></a> |
 | :--: | :--: | :--: | :--: | :--: |
