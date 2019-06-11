@@ -1,6 +1,6 @@
 # PyQt5 QListView
 
-This example shows how you can use a PyQt5 [`QListView`])(https://doc.qt.io/qt-5/qlistview.html) to display a list.
+This example shows how you can use a PyQt5 [`QListView`](https://doc.qt.io/qt-5/qlistview.html) to display a list.
 
 <p align="center"><img src="pyqt5-qlistview.png" alt="PyQt5 QListView"></p>
 
