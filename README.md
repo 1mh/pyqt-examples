@@ -47,4 +47,4 @@ Please note that the virtual environment must still be active for this to work.
 
 ## License
 
-Except where otherwise indicated in the example subdirectory: The code is made available under the terms of the MIT license (attribute copyright to Michael Herrmann). The screenshots are offered under the terms of the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+Except where otherwise indicated, the contents here are © me, Michael Herrmann. I'm happy for you to use the source code for any purpose, but give no warranties of any kind. You may also use the screenshots under the terms of the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
