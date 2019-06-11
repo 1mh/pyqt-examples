@@ -2,7 +2,7 @@
 
 This [`QAbstractTableModel`](https://doc.qt.io/qt-5/qabstracttablemodel.html) example shows how you can define a custom Qt _model_ to display tabular data.
 
-<p align="center"><img src="qabstracttablemodel-emaxple.png" alt="QAbstractTableModel example"></p>
+<p align="center"><img src="qabstracttablemodel-example.png" alt="QAbstractTableModel example"></p>
 
 The code, which you can find in [`main.py`](main.py), implements all required methods for defining a custom table: `rowCount(...)`, `columnCount(...)`, etc. The resulting application displays a table of famous scientists.
 
