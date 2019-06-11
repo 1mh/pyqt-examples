@@ -12,11 +12,11 @@ Simple desktop applications written with PyQt5.
 
 | <a href="src/10 QPainter Python example"><img src="src/10 QPainter Python example/qpainter-python-example.png" alt="QPainter Python example" width=200px></a> | <a href="src/11 PyQt Thread example"><img src="src/11 PyQt Thread example/pyqt-thread-example.png" alt="PyQt Thread example" width=175px></a> | <a href="src/12 QTreeView example in Python"><img src="src/12 QTreeView example in Python/qtreeview-example-in-python.png" alt="QTreeView example in Python" width=260px></a> | <a href="src/13 PyQt5 QListView"><img src="src/13 PyQt5 QListView/pyqt5-qlistview.png" alt="PyQt5 QListView" width=138px></a> |
 | :--: | :--: | :--: | :--: |
-| <a href="src/10 QPainter Python example">Action Shooter</a> | <a href="src/11 PyQt Thread example">Chat Client</a> | <a href="src/12 QTreeView example in Python">Tree views</a> | <a href="src/13 PyQt5 QListView">Lists</a> |
+| <a href="src/10 QPainter Python example">Action Shooter</a> | <a href="src/11 PyQt Thread example">Chat Client</a> | <a href="src/12 QTreeView example in Python">Tree Views</a> | <a href="src/13 PyQt5 QListView">Lists</a> |
 
 | <a href="src/14 QAbstractTableModel example"><img src="src/14 QAbstractTableModel example/qabstracttablemodel-example.png" alt="QAbstractTableModel example" width=250px></a> |
 | :--: |
-| <a href="src/14 QAbstractTableModel example">Custom tables</a> |
+| <a href="src/14 QAbstractTableModel example">Custom Tables</a> |
 
 ## Running the examples
 
