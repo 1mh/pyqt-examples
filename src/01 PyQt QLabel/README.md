@@ -1,6 +1,6 @@
 # PyQt QLabel
 
-This example shows how you can create a Hello World app using PyQt. It uses a `QLabel` to display a simple window:
+This example shows how you can create a Hello World app using PyQt. It uses a [`QLabel`](https://doc.qt.io/qt-5/qlabel.html) to display a simple window:
 
 ![PyQt QLabel screenshot](pyqt-qlabel.png)
 
