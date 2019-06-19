@@ -1,4 +1,4 @@
-# PyQt Examples
+# PyQt Examples 2019
 
 Learn to create desktop apps with Python and Qt
 
