@@ -35,3 +35,5 @@ Finally, we hand control over to Qt:
     app.exec_()
 
 This too is required in every Qt application. It gives Qt a chance to run and process user input, such as for instance when the user clicks the "Window close" button.
+
+And that's it! Congratulations on your very first working PyQt application :-)
