@@ -39,7 +39,7 @@ Next, we instantiate the `Form`. We invoke its `.setupUi(...)` method, passing t
     form = Form()
     form.setupUi(window)
 
-This wires app all the necessary components for displaying the user interface given by the `.ui` file. All that remains is to `.show()` the window and kick off Qt's event processing mechanism:
+We've now connected the necessary components for displaying the user interface given in the `.ui` file. All that remains is to `.show()` the window and kick off Qt's event processing mechanism:
 
     window.show()
     app.exec_()
