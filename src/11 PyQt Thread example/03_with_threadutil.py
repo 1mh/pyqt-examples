@@ -5,7 +5,7 @@ from threading import Thread
 from threadutil import run_in_main_thread
 from time import sleep
 
-name = "" # Enter your name here!
+name = input("Please enter your name: ")
 chat_url = "https://build-system.fman.io/chat"
 server = Session()
 

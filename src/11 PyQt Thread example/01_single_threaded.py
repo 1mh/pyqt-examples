@@ -2,7 +2,7 @@ from PyQt5.QtCore import *
 from PyQt5.QtWidgets import *
 from requests import Session
 
-name = "" # Enter your name here!
+name = input("Please enter your name: ")
 chat_url = "https://build-system.fman.io/chat"
 server = Session()
 
