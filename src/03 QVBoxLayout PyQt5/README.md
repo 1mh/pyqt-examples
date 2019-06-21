@@ -1,6 +1,6 @@
 # QVBoxLayout PyQt5
 
-Layouts let you position GUI elements next to each other. [`QVBoxLayout`](https://doc.qt.io/qt-5/qvboxlayout.html) arranges items vertically:
+Layouts let you position GUI elements next to each other. [`QVBoxLayout`](https://doc.qt.io/qt-5/qvboxlayout.html) for instance arranges items vertically:
 
 <p align="center"><img src="qvboxlayout-pyqt5.png" alt="QVBoxLayout PyQt5"></p>
 
