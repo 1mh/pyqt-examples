@@ -16,4 +16,4 @@ As you can see in [`main.py`](main.py), this example uses `QApplication.setStyle
     ...
     app.setPalette(palette)
 
-To run this example yourself, please follow the [instructions in the main README of this repository](https://github.com/1mh/pyqt-examples#running-the-examples).
+To run this example yourself, please follow the [instructions in the README of this repository](https://github.com/1mh/pyqt-examples#running-the-examples).
