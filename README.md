@@ -1,6 +1,6 @@
 # PyQt Examples 2019
 
-Learn to create desktop apps with Python and Qt
+Learn to create desktop apps with Python and Qt.
 
 The screenshots below were taken on Ubuntu Linux. But you can also run all examples presented here on Windows and macOS.
 
