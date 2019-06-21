@@ -1,6 +1,6 @@
 # PyQt Thread example
 
-This example shows how you can use threads to make your PyQt application more responsive. It's a simple chat client.
+This example shows how you can use threads to make your PyQt application more responsive. It's a simple (but working!) chat client.
 
 <p align="center"><img src="pyqt-thread-example.png" alt="PyQt Thread Example"></p>
 
