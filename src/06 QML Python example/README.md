@@ -8,6 +8,51 @@ Qt Quick uses a markup language called QML. This example shows how you can combi
 
 The sample application displays a pin wheel in front of some hills. When you click with the mouse, the wheel rotates.
 
-The QML code lies in [`main.qml`](main.qml). It is invoked from Python via [`main.py`](main.py). For instructions how to run it, please see [here](https://github.com/1mh/pyqt-examples#running-the-examples).
+The QML code lies in [`main.qml`](main.qml). It's a testament to QML that it is quite easy to read:
+
+```
+import QtQuick 2.2
+import QtQuick.Window 2.2
+
+Window {
+    Image {
+        id: background
+        source: "background.png"
+    }
+    Image {
+        id: wheel
+        anchors.centerIn: parent
+        source: "pinwheel.png"
+        Behavior on rotation {
+            NumberAnimation {
+                duration: 250
+            }
+        }
+    }
+    MouseArea {
+        anchors.fill: parent
+        onPressed: {
+            wheel.rotation += 90
+        }
+    }
+    visible: true
+    width: background.width
+    height: background.height
+}
+```
+
+Executing the QML from Python is even easier. The code is in [`main.py`](main.py):
+
+```
+from PyQt5.QtQml import QQmlApplicationEngine
+from PyQt5.QtWidgets import QApplication
+
+app = QApplication([])
+engine = QQmlApplicationEngine()
+engine.load("main.qml")
+app.exec_()
+```
+
+If you'd like further instructions how you can run this code for yourself, please see [here](https://github.com/1mh/pyqt-examples#running-the-examples).
 
 Some code in this directory has special license requirements. For more information, please see [`LICENSE.md`](LICENSE.md).
