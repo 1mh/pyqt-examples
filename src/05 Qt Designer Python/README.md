@@ -24,9 +24,9 @@ Then, we use [`uic.loadUiType(...)`](https://www.riverbankcomputing.com/static/D
 
     Form, Window = uic.loadUiType("dialog.ui")
 
-The first is an ordinary Python class. It has a `.setupUi(...)` method which takes a single parameter, the [widget](../02%20PyQt%20Widgets) in which the UI should be displayed. The exact type of this parameter is given by the second class, `Window`. This is configured in Qt Designer and is usually one of `QDialog`, `QMainWindow` or `QWidget`.
+The first is an ordinary Python class. It has a `.setupUi(...)` method which takes a single parameter, the [widget](../02%20PyQt%20Widgets) in which the UI should be displayed. The type of this parameter is given by the second class, `Window`. This is configured in Qt Designer and is usually one of `QDialog`, `QMainWindow` or `QWidget`.
 
-To show the UI, we then proceed in the logical way imposed by the above API. First, we create the necessary `QApplication`:
+To show the UI, we thus proceed as follows. First, we create the necessary `QApplication`:
 
     app = QApplication([])
 
