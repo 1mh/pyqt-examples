@@ -7,9 +7,7 @@ This example shows how you can use a PyQt5 [`QListView`](https://doc.qt.io/qt-5/
 It simply shows a static list of strings. Technically, the data is managed by Qt's [`QStringListModel`](https://doc.qt.io/qt-5/qstringlistmodel.html). The important steps of the [code](main.py) are:
 
 ```
-model = QStringListModel([
-    "An element", "Another element", "Yay! Another one."
-])
+model = QStringListModel(["An element", "Another element", "Yay! Another one."])
 view = QListView()
 view.setModel(model)
 view.show()
