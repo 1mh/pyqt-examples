@@ -49,4 +49,4 @@ Once we have this model, we can instantiate it, connect it to a `QTableView` and
     view.setModel(model)
     view.show()
 
-For instructions on how you can run this example yourself, please see [the instructions in the README of this repository](https://github.com/1mh/pyqt-examples#running-the-examples).
+The full code is in [`main.py`](main.py). For instructions how to run it, please see [the instructions in the README of this repository](https://github.com/1mh/pyqt-examples#running-the-examples).
