@@ -12,7 +12,7 @@ Then, we create the required `QApplication`:
 
     app = QApplication([])
 
-This time, we create a top-level window first. This will act as the container for the two button you see in the screenshot:
+This time, we create a top-level window first. This will act as the container for the two buttons you see in the screenshot:
 
     window = QWidget()
 
