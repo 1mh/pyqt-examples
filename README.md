@@ -20,7 +20,11 @@ Learn to create desktop apps with Python and Qt. Screenshots on Ubuntu below. Yo
 
 ## Running the examples
 
-Running the examples is really easy. The only thing you need is Python 3. Create a virtual environment via the command:
+Running the examples is really easy. The only thing you need is Python 3.
+
+First, download the [ZIP archive of this repository](https://github.com/1mh/pyqt-examples/archive/_.zip) and unpack it. Open a command prompt and use `cd` to navigate into the top-level directory of the archive.
+
+Create a virtual environment via the command:
 
     python3 -m venv venv
 
@@ -35,11 +39,15 @@ call venv\Scripts\actviate.bat
 source venv/bin/activate
 ```
 
-Then, execute the following to install the necessary dependencies:
+Now execute the following to install the necessary dependencies:
 
     pip install -Ur src/requirements.txt
 
-Once you have done this, use `cd` to navigate to the example you're interested in in the [`src/`](src) folder. You'll find a `.py` file there, typically `main.py`. You can run it with the command:
+Once you have done this, use `cd` to navigate to the example you're interested in in the [`src/`](src) folder. For example:
+
+    cd "src/01 PyQt QLabel"
+
+You'll find a `.py` file there, typically `main.py`. You can run it with the command:
 
     python main.py
 
