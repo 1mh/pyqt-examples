@@ -20,7 +20,7 @@ Learn to create desktop apps with Python and Qt. Screenshots on Ubuntu below. Yo
 
 ## Running the examples
 
-Running the examples is really easy. The only thing you need is Python 3.
+Running the examples is really easy. The only thing you need is [Python 3](https://www.python.org/downloads/).
 
 First, download the [ZIP archive of this repository](https://github.com/1mh/pyqt-examples/archive/_.zip) and unpack it. Open a command prompt and use `cd` to navigate into the top-level directory of the archive.
 
