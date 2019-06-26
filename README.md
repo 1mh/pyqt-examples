@@ -59,6 +59,8 @@ This repository uses PyQt5 to use Qt from Python. Another, alternative binding i
 
 If you want to use PySide2 instead of PyQt5, simply replace all mentions of the latter by the former. For instance, in [`src/requirements.txt`](src/requirements.txt), replace `PyQt5` by `PySide2`. Similarly for any code examples: `from PyQt5.QtWidgets ...` becomes `from PySide2.QtWidgets ...` etc.
 
+Alternatively, if you don't want to commit to either of the two bindings at this stage, you can also use [Qt.py](https://github.com/mottosso/Qt.py). This is an abstraction over PySide2 and PyQt5. It loads whichever of the two bindings is available. To use it for the examples presented here, simply replace all mentions of `PyQt5` by just `Qt`.
+
 ## License
 
 Except where otherwise indicated, the contents here are © me, Michael Herrmann. I'm happy for you to use the source code under the terms of the MIT license. The screenshots may be used under the terms of the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
